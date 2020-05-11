@@ -17,4 +17,4 @@ Installation of Anaconda and Python successful!
 
 - when I try to open Wget it flashes on my screen but then disappears and will not open the application
 
-![image i just uploaded](issuew2.2.pg)
+![image i just uploaded](issuew2.2.jpg)
