@@ -14,3 +14,7 @@ Installation of Anaconda and Python successful!
 - this error message shows there was no subfolder in the file I was looking at
 
 ![image i just uploaded](evidencew2.3.png)
+
+- when I try to open Wget it flashes on my screen but then disappears and will not open the application
+
+![image i just uploaded](issuew2.2.pg)
