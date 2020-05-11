@@ -1,4 +1,4 @@
-having trouble with hypothesis saying it is "inactive"
+- having trouble with hypothesis saying it is "inactive"
 
 ![image i just uploaded](issuew2.png)
 
@@ -8,3 +8,7 @@ Goggled Solution: https://web.hypothes.is/help/how-to-activate-hypothesis-on-a-w
 Installation of Anaconda and Python successful!
 
 ![image i just uploaded](evidencew2.2.png)
+
+- this error message shows there was no subfolder in the file I was looking at
+
+![image i just uploaded](evidencew2.3.png)
