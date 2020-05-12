@@ -30,3 +30,6 @@ The part that got me stuck first was I hadn't put wget.exe into my c:\windows fo
 I then continues to try the next part on my own. I created the folder in sublime text and pasted the links to the images. However, when I returned to the command prompt something didn't look right.
 
 ![image i just uploaded](wget6.png)
+
+- so I decided to leave it for now and try again later
+
