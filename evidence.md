@@ -22,3 +22,5 @@ Installation of Anaconda and Python successful!
 - asked for help in the Discord
 
 ![image i just uploaded](issuew2.3.png)
+
+The part that got me stuck first was I hadn't put wget.exe into my c:\windows folder on my PC. Fortunately, when I asked for help in the Discord server, Dr. Graham worked with me step by step.
