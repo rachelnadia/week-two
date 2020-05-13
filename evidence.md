@@ -25,7 +25,15 @@ Installation of Anaconda and Python successful!
 
 The part that got me stuck first was I hadn't put wget.exe into my c:\windows folder on my PC. Fortunately, when I asked for help in the Discord server, Dr. Graham worked with me step by step.
 
-
+![image i just uploaded](help1.PNG)
+![image i just uploaded](help2.PNG)
+![image i just uploaded](help3.PNG)
+![image i just uploaded](help4.PNG)
+![image i just uploaded](help5.PNG)
+![image i just uploaded](help6.PNG)
+![image i just uploaded](help7.PNG)
+![image i just uploaded](help8.PNG)
+![image i just uploaded](help9.PNG)
 
 I then continued to try the next part on my own. I created the folder in sublime text and pasted the links to the images. However, when I returned to the command prompt something didn't look right.
 
