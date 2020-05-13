@@ -48,4 +48,4 @@ I asked my brother, who is a physics and astronomy major at Waterloo and has tau
 ![image i just uploaded](cam1.png)
 ![image i just uploaded](cam2.png)
 
-- once I got the Sublime text file saved in the same folder I had pen in the powershell command prompt, the rest went smoothly.
+- once I got the Sublime text file saved in the same folder I had open in the powershell command prompt, the rest went smoothly.
