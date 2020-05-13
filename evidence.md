@@ -41,3 +41,11 @@ I then continued to try the next part on my own. I created the folder in sublime
 
 - so I decided to leave it for now and try again later
 
+I asked my brother, who is a physics and astronomy major at Waterloo and has taught himself a portion of coding, to help me.
+
+- what got m stuck was that I had created a new path file for urls.txt but that wasn't the folder I had saved it in.
+
+![image i just uploaded](cam1.png)
+![image i just uploaded](cam2.png)
+
+- once I got the Sublime text file saved in the same folder I had pen in the powershell command prompt, the rest went smoothly.
