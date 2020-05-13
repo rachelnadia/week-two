@@ -49,3 +49,7 @@ I asked my brother, who is a physics and astronomy major at Waterloo and has tau
 ![image i just uploaded](cam2.png)
 
 - once I got the Sublime text file saved in the same folder I had open in the powershell command prompt, the rest went smoothly.
+
+Luckily, after all the help I received, I was able to figure out the first instructions for the API by myself.
+
+![image i just uploaded](API1.jpg)
