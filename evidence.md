@@ -53,3 +53,5 @@ I asked my brother, who is a physics and astronomy major at Waterloo and has tau
 Luckily, after all the help I received, I was able to figure out the first instructions for the API by myself.
 
 ![image i just uploaded](API1.jpg)
+
+I struggled with the first task in Rstudio. I went back to it multiple time but I knew it must be I didn't have something set up correctly because when 
