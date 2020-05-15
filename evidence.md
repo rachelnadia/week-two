@@ -54,4 +54,8 @@ Luckily, after all the help I received, I was able to figure out the first instr
 
 ![image i just uploaded](API1.jpg)
 
-I struggled with the first task in Rstudio. I went back to it multiple time but I knew it must be I didn't have something set up correctly because when 
+I struggled with the first task in Rstudio. I went back to it multiple time but I knew it must be I didn't have something set up correctly because when I would try to load the packages I received the following warning
+
+![image i just uploaded](issue3.png)
+
+I had already had R downloaded on my computer for a statistics course I had previously taken. However, it was not the newest version of R so when I downloaded RStudio there was something missing. I uninstalled and reinstalled the newest version of R and then everyhting in RStudio went smoothly.
