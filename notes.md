@@ -28,3 +28,8 @@ text mining: Process of analysing text to extract information from it (MALLET)
 
 - connects to the point made by Robert Darnton in the readings for week one: digitization is important, but more so it is democratization
 
+### Is bias eliminated by diitization?
+
+- using programs like RStudio and Azure do the work of transcribing for us
+
+- is a computer software better at detecting difficult to read words?
