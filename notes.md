@@ -16,4 +16,12 @@ text mining: Process of analysing text to extract information from it (MALLET)
 
 - editorial expertise costs money but is important
 
+- volunteering does not include compensation
+
+- who gets the credit for the work?
+
+- does this make the history more democratic?
+
+        - becomes more of a "people's history" rather than from the perspective of the historian
+        - does this eliminate bias?
 - 
