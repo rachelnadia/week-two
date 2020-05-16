@@ -22,6 +22,9 @@ text mining: Process of analysing text to extract information from it (MALLET)
 
 - does this make the history more democratic?
 
-        - becomes more of a "people's history" rather than from the perspective of the historian
-        - does this eliminate bias?
-- 
+    - becomes more of a "people's history" rather than from the perspective of the historian
+    
+    - does this eliminate bias?
+
+- connects to the point made by Robert Darnton in the readings for week one: digitization is important, but more so it is democratization
+
