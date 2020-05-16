@@ -36,4 +36,5 @@ text mining: Process of analysing text to extract information from it (MALLET)
 
 - but also when you use crowdsourcing, volunteers may not have experience
     
-    - this can cause it's own problems [evidence.md]
+    - this can cause it's own problems [see my evidence.md for my own struggles with this technology]
+
