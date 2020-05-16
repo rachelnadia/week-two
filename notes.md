@@ -33,3 +33,7 @@ text mining: Process of analysing text to extract information from it (MALLET)
 - using programs like RStudio and Azure do the work of transcribing for us
 
 - is a computer software better at detecting difficult to read words?
+
+- but also when you use crowdsourcing, volunteers may not have experience
+    
+    - this can cause it's own problems [evidence.md]
