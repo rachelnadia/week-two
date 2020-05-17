@@ -16,5 +16,5 @@ On the discord server
 From my brother
 
 ![image i just uploaded](giving-help.png)
-
+ 
 And even providing some tips when I felt confident enough to do so.
