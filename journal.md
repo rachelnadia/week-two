@@ -23,3 +23,4 @@ Looking back at the Ayers et. al. piece from week one on women in digital histor
 
 I have never really done an archive search at Carleton so I don't really know what is available. One time I used the archival maps on the first floor of MacDdrum library so I known those are available. Although I've never done much of an in-depth search, I feel Carleton does a pretty good job of making these resources available. One thing I know is that you can sign into your Carleton domain and have access from off-campus. This is very useful.
 
+I in no way meet the skill level of a digital histoian. However, I am very proud of myself for the time and effort I put into this week's activities. I could have very easily given up, but instead I sought out help on various platfrms and ended up competing all but the bonus activities. I am excited to continue building my skills throughout the duration of this course.
