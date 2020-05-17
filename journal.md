@@ -20,3 +20,6 @@ And even providing some tips when I felt confident enough to do so.
 When I struggled with the first assignment on handwritin, Dr. Graham said the reason for one of my error was because he forgot to put a line in the script. This is one of the benefits of having multiple sets of eyes looking at the same work, it is easier to catch mistakes.
 
 Looking back at the Ayers et. al. piece from week one on women in digital history, an ethical issue is the due credit for such digital works. It seems very unlikely that each volunteer for Transcribe Bentham wil be credited in the final works of the Bentham Project, and they definitely won't recive any compensation. Is this really the democratization of history? It seems as if it may be taking more of a communist approach.
+
+I have never really done an archive search at Carleton so I don't really know what is available. One time I used the archival maps on the first floor of MacDdrum library so I known those are available. Although I've never done much of an in-depth search, I feel Carleton does a pretty good job of making these resources available. One thing I know is that you can sign into your Carleton domain and have access from off-campus. This is very useful.
+
