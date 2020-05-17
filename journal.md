@@ -7,7 +7,7 @@ Digital work in the humanities is unique in structure. In terms of funding, most
 
 This week, I got a much better grasp on the notion that digital history is a team effort. There were a few different ways in which I sought help this week and watch others work through their own work:
 
-![image i just uploaded](help1.png)
+![image i just uploaded](help1.PNG)
 
 On the discord server
 
